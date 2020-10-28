@@ -1,0 +1,49 @@
+.navbar{
+    background-color: #06060654;
+  
+}
+.fixed-top{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 10;
+}
+#title{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10% 5%;
+    text-align: left;
+}
+.big-heading{
+    padding-top: 12%;
+}
+#features{
+    padding: 10% 5%;
+    text-align: center; 
+
+}
+.google{
+    width:140px;
+    height: 65px;
+}
+#footer{
+    background-color: #000000;
+    padding: 3% 5%;
+    text-align: center;
+ 
+
+}
+.social-icon {
+    margin: 20px 10px;
+  }
+  a,#footer_p{
+    color: rgba(255, 255, 255, 0.3);
+   
+    cursor: pointer;
+   
+  }
+  a:hover{
+ color: #ff9935; 
+  }
+ 
